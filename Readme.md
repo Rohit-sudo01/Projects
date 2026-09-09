@@ -27,3 +27,6 @@ The project also demonstrates **web server deployment on AWS EC2 using Apache2**
 The main objective of this project is to build a functional restaurant website and gain practical experience in **Linux server administration, Apache2 configuration, AWS EC2 deployment, and basic web hosting**.
 
 ## Step by Step Walkthrough
+
+
+
