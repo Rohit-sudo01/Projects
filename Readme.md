@@ -28,5 +28,8 @@ The main objective of this project is to build a functional restaurant website a
 
 ## Step by Step Walkthrough
 
+A detailed pictorial walkthrough of the AWS project is attached to this repository, demonstrating the configuration, deployment, and key steps of the project.
+
+
 
 
